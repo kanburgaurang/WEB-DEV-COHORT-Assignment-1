@@ -10,7 +10,7 @@ This project focuses on **clean structure** and **proper use of semantic HTML ta
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/kanburgaurang/WEB-DEV-COHORT-Assignment-1.git
    ```
 
 2. Navigate into the project folder:
